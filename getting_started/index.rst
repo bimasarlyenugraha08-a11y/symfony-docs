@@ -1,4 +1,4 @@
-Getting Started
+/var/www/apracollege/vendor/laravel/framework/src/Illuminate/Routing/Router.php:833Getting Started
 ---------------
 
 .. toctree::
